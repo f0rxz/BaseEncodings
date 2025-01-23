@@ -48,7 +48,7 @@ You can specify the encoding format when running the program by using the `-enco
 #### Example:
 
 `make run ENCODING=base32`
- This command will use the Base64 encoding format.
+ This command will use the Base32 encoding format.
 
 ## Commands
 
